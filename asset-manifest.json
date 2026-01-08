@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-management-redux-jsonServer/static/css/main.21a2f31b.css",
+    "main.js": "/student-management-redux-jsonServer/static/js/main.7b93d47e.js",
+    "static/js/453.f0dd097b.chunk.js": "/student-management-redux-jsonServer/static/js/453.f0dd097b.chunk.js",
+    "static/media/logo.svg": "/student-management-redux-jsonServer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/student-management-redux-jsonServer/index.html",
+    "main.21a2f31b.css.map": "/student-management-redux-jsonServer/static/css/main.21a2f31b.css.map",
+    "main.7b93d47e.js.map": "/student-management-redux-jsonServer/static/js/main.7b93d47e.js.map",
+    "453.f0dd097b.chunk.js.map": "/student-management-redux-jsonServer/static/js/453.f0dd097b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a2f31b.css",
+    "static/js/main.7b93d47e.js"
+  ]
+}
