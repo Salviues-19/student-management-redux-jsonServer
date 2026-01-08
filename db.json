@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "ad6c",
+      "name": "ary",
+      "age": 44,
+      "course": "fsd"
+    },
+    {
+      "id": "e422",
+      "name": "ary",
+      "age": 12,
+      "course": "sde"
+    },
+    {
+      "id": "7dcc",
+      "name": "arun",
+      "age": 32,
+      "course": "fsd"
+    },
+    {
+      "id": "ec99",
+      "name": "arun",
+      "age": 32,
+      "course": "java"
+    },
+    {
+      "id": "8fd6",
+      "name": "arun",
+      "age": 32,
+      "course": "fsd"
+    }
+  ]
+}
